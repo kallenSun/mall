@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/docs/sql/init/mall_oms.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/docs/sql/init/mall_sms.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/docs/sql/init/mall_ums.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/docs/sql/init/mall_wms.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/docs/sql/init/psm_catelog.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/docs/sql/init/sys_menus.sql" dialect="MariaDB" />
+  </component>
+</project>

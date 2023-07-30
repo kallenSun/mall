@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8867f5b-ed27-46f6-ba6b-a97285530dbf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2T9zabV2eLgJWN3qT4hzIllY7nf" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mall-common/src/main/java/com/sunyue/study/common" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.sunyue.study.product" />
+      <recent name="com.sunyue.study.product.service" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sunyue.study" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mall-common/src/main/java/com/sunyue/study/common" />
+      <recent name="$PROJECT_DIR$/mall-common/src/main/java/com/sunyue/study/common/utils" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mall-coupon/src" />
+      <recent name="$PROJECT_DIR$/mall-product/src/main/java/com/sunyue/study/product" />
+      <recent name="$PROJECT_DIR$/mall-product/src" />
+      <recent name="$PROJECT_DIR$/docs/sql/init" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RenrenApplication (1)">
+    <configuration name="MallProductApplicationTest.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mall-product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunyue.study.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sunyue.study.product" />
+      <option name="MAIN_CLASS_NAME" value="com.sunyue.study.product.MallProductApplicationTest" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallCouponApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-coupon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sunyue.study.coupon.MallCouponApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallMemberApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-member" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sunyue.study.member.MallMemberApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sunyue.study.order.MallOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sunyue.study.product.MallProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallWareApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-ware" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sunyue.study.ware.MallWareApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenrenApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="renren-generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.renren.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.renren.RenrenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenrenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="renren-fast" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.renren.RenrenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RenrenApplication (1)" />
+        <item itemvalue="JUnit.MallProductApplicationTest.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8867f5b-ed27-46f6-ba6b-a97285530dbf" name="Default Changelist" comment="" />
+      <created>1690470148827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690470148827</updated>
+      <workItem from="1690470152515" duration="6065000" />
+      <workItem from="1690714222404" duration="8837000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1690715026305">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-1920.81.1920.953@0.23.1440.877" timestamp="1690715026305" />
+    <state x="241" y="394" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1690730585667">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="241" y="394" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.877/-1920.81.1920.953@0.23.1440.877" timestamp="1690730585666" />
+    <state x="486" y="349" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1690730587834">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="486" y="349" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.877/-1920.81.1920.953@0.23.1440.877" timestamp="1690730587834" />
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1690727858332">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="192" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.773/-1920.81.1920.1057@0.23.1440.773" timestamp="1690643738272" />
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877/-1920.81.1920.953@0.23.1440.877" timestamp="1690727858332" />
+    <state width="956" height="248" key="GridCell.Tab.0.bottom" timestamp="1690731931159">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="244" key="GridCell.Tab.0.bottom/0.23.1440.773/-1920.81.1920.1057@0.23.1440.773" timestamp="1690650426377" />
+    <state width="956" height="248" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.81.1920.953@0.23.1440.877" timestamp="1690731931159" />
+    <state width="956" height="248" key="GridCell.Tab.0.center" timestamp="1690731931159">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="244" key="GridCell.Tab.0.center/0.23.1440.773/-1920.81.1920.1057@0.23.1440.773" timestamp="1690650426372" />
+    <state width="956" height="248" key="GridCell.Tab.0.center/0.23.1440.877/-1920.81.1920.953@0.23.1440.877" timestamp="1690731931159" />
+    <state width="956" height="248" key="GridCell.Tab.0.left" timestamp="1690731931158">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="244" key="GridCell.Tab.0.left/0.23.1440.773/-1920.81.1920.1057@0.23.1440.773" timestamp="1690650426370" />
+    <state width="956" height="248" key="GridCell.Tab.0.left/0.23.1440.877/-1920.81.1920.953@0.23.1440.877" timestamp="1690731931158" />
+    <state width="956" height="248" key="GridCell.Tab.0.right" timestamp="1690731931159">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="244" key="GridCell.Tab.0.right/0.23.1440.773/-1920.81.1920.1057@0.23.1440.773" timestamp="1690650426373" />
+    <state width="956" height="248" key="GridCell.Tab.0.right/0.23.1440.877/-1920.81.1920.953@0.23.1440.877" timestamp="1690731931159" />
+    <state width="956" height="248" key="GridCell.Tab.1.bottom" timestamp="1690731931160">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="956" height="248" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.81.1920.953@0.23.1440.877" timestamp="1690731931160" />
+    <state width="956" height="248" key="GridCell.Tab.1.center" timestamp="1690731931160">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="956" height="248" key="GridCell.Tab.1.center/0.23.1440.877/-1920.81.1920.953@0.23.1440.877" timestamp="1690731931160" />
+    <state width="956" height="248" key="GridCell.Tab.1.left" timestamp="1690731931160">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="956" height="248" key="GridCell.Tab.1.left/0.23.1440.877/-1920.81.1920.953@0.23.1440.877" timestamp="1690731931160" />
+    <state width="956" height="248" key="GridCell.Tab.1.right" timestamp="1690731931160">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="956" height="248" key="GridCell.Tab.1.right/0.23.1440.877/-1920.81.1920.953@0.23.1440.877" timestamp="1690731931160" />
+    <state width="1396" height="244" key="GridCell.Tab.2.bottom" timestamp="1690656816043">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="244" key="GridCell.Tab.2.bottom/0.23.1440.877/-1920.81.1920.953@0.23.1440.877" timestamp="1690656816043" />
+    <state width="1396" height="244" key="GridCell.Tab.2.center" timestamp="1690656816043">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="244" key="GridCell.Tab.2.center/0.23.1440.877/-1920.81.1920.953@0.23.1440.877" timestamp="1690656816043" />
+    <state width="1396" height="244" key="GridCell.Tab.2.left" timestamp="1690656816042">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="244" key="GridCell.Tab.2.left/0.23.1440.877/-1920.81.1920.953@0.23.1440.877" timestamp="1690656816042" />
+    <state width="1396" height="244" key="GridCell.Tab.2.right" timestamp="1690656816043">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="244" key="GridCell.Tab.2.right/0.23.1440.877/-1920.81.1920.953@0.23.1440.877" timestamp="1690656816043" />
+    <state x="221" y="63" key="SettingsEditor" timestamp="1690729810868">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="74" key="SettingsEditor/0.23.1440.773/-1920.81.1920.1057@0.23.1440.773" timestamp="1690643930737" />
+    <state x="221" y="63" key="SettingsEditor/0.23.1440.877/-1920.81.1920.953@0.23.1440.877" timestamp="1690729810868" />
+    <state x="455" y="195" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1690730044735">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="455" y="195" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877/-1920.81.1920.953@0.23.1440.877" timestamp="1690730044735" />
+    <state x="138" y="82" key="new project wizard" timestamp="1690643720306">
+      <screen x="0" y="23" width="1440" height="773" />
+    </state>
+    <state x="138" y="82" key="new project wizard/0.23.1440.773/-1920.81.1920.1057@0.23.1440.773" timestamp="1690643720306" />
+    <state x="138" y="90" key="new project wizard/0.23.1440.877/-1920.81.1920.953@0.23.1440.877" timestamp="1690470960123" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1690731022258">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-1920.81.1920.953@0.23.1440.877" timestamp="1690731022258" />
+  </component>
+</project>
