@@ -4,7 +4,7 @@ import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@MapperScan("com.sunyue.study.product.dao")
+@MapperScan("com.sunyue.study.coupon.dao")
 @SpringBootApplication
 public class MallCouponApplication {
 
